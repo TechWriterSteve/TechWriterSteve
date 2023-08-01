@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Steve.
+- 👀 I’m interested in building MS Office solutions.
+- 🌱 I’m currently learning how to do that in JS etc.
