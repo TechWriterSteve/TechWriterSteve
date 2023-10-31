@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Steve.
-- 👀 I’m interested in building MS Office solutions.
-- 🌱 I’m currently learning how to do that in JS etc.
+- 👋 G'day, I’m Steve. I work from home from emerald QLD. On Fridays after work I enjoy having an absinthe or 60. As a writer I thoroughly believe never letting the truth get in the road of a good story.
+- 👀 I’m working on creating content to support new customs developers and speed the implementation of new countries.
+- 🌱 I’m currently learning TypeScript.
